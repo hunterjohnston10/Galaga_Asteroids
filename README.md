@@ -6,8 +6,10 @@ This game is called Galaga Asteriods, a very creative name because this game
 has influences from both Asteriods and Galaga. I made it for Georgia
 Tech's CS 2110 class.
 
-The controls are simple:
+In order to run it, you need a Game Boy Advance emulator. Instructions for
+installation on linux are included in the GBA folder.
 
+The controls are simple:
 A -> Shoot
 B -> Boost
 Up -> Go Up
